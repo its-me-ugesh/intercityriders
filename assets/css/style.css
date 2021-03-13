@@ -215,7 +215,7 @@ h4 a:hover {
   margin-bottom: 0;
   margin-top: 0;
 }
-
+ 
 .heading-content.style-one.border h2.title {
   position: relative;
   margin-bottom: 25px;
@@ -778,8 +778,8 @@ body:not(.woocommerce) .blog-single-block #comments table td {
 
 .gray-20 {
   background: #bcf0c5;
-    background-image: linear-gradient(180deg, #08AEEA 0%, #2AF598 100%);
-    box-shadow:inset 0 0 0 2000px rgb(45 50 41 / 30%);
+background-image: linear-gradient(180deg, #899bff 0%, #26c5ff 100%); !important;
+    box-shadow:inset 0 0 0 2000px rgb(45 50 41 / 10%);
 }
 
 .nevy-bg {
@@ -2989,7 +2989,7 @@ pagination
 .header-nav-area {
   -webkit-box-shadow: 0px 0px 5px 0px rgba(3, 3, 3, 0.22);
           box-shadow: 0px 0px 5px 0px rgba(3, 3, 3, 0.22);
-          background-image: linear-gradient(180deg, #08AEEA 0%, #2AF598 100%); !important;
+          background-image: linear-gradient(180deg, #788dff 0%, #26c5ff 100%); !important;
 }
 
 .header-nav-area .site-logo {
@@ -3035,8 +3035,8 @@ pagination
 
 .check-vehicle-block:before {
   content: "";
-  background-image: linear-gradient(180deg, #08AEEA 0%, #2AF598 100%);
-  box-shadow:inset 0 0 0 2000px rgb(45 50 41 / 30%);
+  background-image: linear-gradient(180deg, #899bff 0%, #26c5ff 100%); !important;
+  box-shadow:inset 0 0 0 2000px rgb(45 50 41 / 10%);
   width: 32.333333%;
   height: 100%;
   position: absolute;
@@ -4541,8 +4541,7 @@ pagination
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: linear-gradient(180deg, #08AEEA 0%, #08ff8e 100%);
-}
+background-image: linear-gradient(180deg, #899bff 0%, #26c5ff 100%); !important;}
 
 .stat {
   text-align: center;
